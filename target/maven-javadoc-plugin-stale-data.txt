@@ -1,0 +1,49 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/PROJETOS/Java_Maven/componente-criptografia/src/main/java;D:/PROJETOS/Java_Maven/componente-criptografia/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/PROJETOS/Java_Maven/componente-criptografia/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Componente de Criptografia para Textos 1.0.0 API'
+-use
+-version
+-windowtitle
+'Componente de Criptografia para Textos 1.0.0 API'
+'D:/PROJETOS/Java_Maven/componente-criptografia/src/main/java/io/github/caua_moreto/criptografia/impl/CriptografiaBase64Impl.java'
+'D:/PROJETOS/Java_Maven/componente-criptografia/src/main/java/io/github/caua_moreto/criptografia/impl/CriptografiaInversaoImpl.java'
+'D:/PROJETOS/Java_Maven/componente-criptografia/src/main/java/io/github/caua_moreto/criptografia/interfac/Criptografador.java'
+'D:/PROJETOS/Java_Maven/componente-criptografia/src/main/java/io/github/caua_moreto/criptografia/interfac/CriptografiaInterface.java'
+'D:/PROJETOS/Java_Maven/componente-criptografia/src/main/java/io/github/caua_moreto/criptografia/interfac/Descriptografador.java'
+'D:/PROJETOS/Java_Maven/componente-criptografia/src/main/java/io/github/caua_moreto/Main.java'
+D:\PROJETOS\Java_Maven\componente-criptografia\src\main\java = 1751500520282
+D:\PROJETOS\Java_Maven\componente-criptografia\target\generated-sources\annotations = 1751505547434
+D:\PROJETOS\Java_Maven\componente-criptografia\target\apidocs\allclasses-index.html = 1751505551783
+D:\PROJETOS\Java_Maven\componente-criptografia\target\apidocs\allpackages-index.html = 1751505551786
+D:\PROJETOS\Java_Maven\componente-criptografia\target\apidocs\element-list = 1751505551705
+D:\PROJETOS\Java_Maven\componente-criptografia\target\apidocs\help-doc.html = 1751505551806
+D:\PROJETOS\Java_Maven\componente-criptografia\target\apidocs\index-all.html = 1751505551800
+D:\PROJETOS\Java_Maven\componente-criptografia\target\apidocs\index.html = 1751505551772
+D:\PROJETOS\Java_Maven\componente-criptografia\target\apidocs\jquery-ui.overrides.css = 1751505551820
+D:\PROJETOS\Java_Maven\componente-criptografia\target\apidocs\member-search-index.js = 1751505551791
+D:\PROJETOS\Java_Maven\componente-criptografia\target\apidocs\module-search-index.js = 1751505551787
+D:\PROJETOS\Java_Maven\componente-criptografia\target\apidocs\overview-summary.html = 1751505551802
+D:\PROJETOS\Java_Maven\componente-criptografia\target\apidocs\overview-tree.html = 1751505551768
+D:\PROJETOS\Java_Maven\componente-criptografia\target\apidocs\package-search-index.js = 1751505551789
+D:\PROJETOS\Java_Maven\componente-criptografia\target\apidocs\script.js = 1751505551809
+D:\PROJETOS\Java_Maven\componente-criptografia\target\apidocs\search.js = 1751505551811
+D:\PROJETOS\Java_Maven\componente-criptografia\target\apidocs\stylesheet.css = 1751505551807
+D:\PROJETOS\Java_Maven\componente-criptografia\target\apidocs\tag-search-index.js = 1751505551792
+D:\PROJETOS\Java_Maven\componente-criptografia\target\apidocs\type-search-index.js = 1751505551790
